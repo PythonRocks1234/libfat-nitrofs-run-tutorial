@@ -27,3 +27,5 @@ with nitrofs, you can have a read only filesystem inside of the rom
     - go to config, go to DLDI, load in your files
     - click the checkbox that says "enable DLDI"
     - load in an SD card image
+    - here is one at [this repo: SD card](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/sd.img)
+    - if you need a bigger one make it yourself at [mediafire download link](https://www.mediafire.com/file/cfr9q8542e9lsos/Virtual_SD_Card_Maker.zip/file)
