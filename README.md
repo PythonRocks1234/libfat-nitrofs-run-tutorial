@@ -17,3 +17,6 @@ with nitrofs, you can have a read only filesystem inside of the rom
          dump from actual hardware [no intro wiki](https://wiki.no-intro.org/index.php?title=Nintendo_DS(i)_Dumping_Guide)
     - 2nd way (illegal):<br>
          download at [emulator wiki](https://emulation.gametechwiki.com/index.php/Emulator_Files)
+3. configure your melonDS
+    - go to config, go to ds emulation, load in your files
+    - 
