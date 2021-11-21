@@ -1,3 +1,6 @@
+# im tired
+if i screwed up anything report at the issues tab
+
 # libfat-nitrofs-run-tutorial
 tutorial on how to run libfat and nitrofs<br>
 coming soon: tutorial on running dswifi
