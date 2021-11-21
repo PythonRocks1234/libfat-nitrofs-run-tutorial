@@ -19,7 +19,11 @@ with nitrofs, you can have a read only filesystem inside of the rom
     - 2nd way (illegal):<br>
          download at [emulator wiki](https://emulation.gametechwiki.com/index.php/Emulator_Files)
 3. configure your melonDS
-    - go to config, go to ds emulation, load in your files
+    - go to config, go to DS-mode, load in your files
     - should look like the below image<br>
         ![this](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/bios_loaded.png "bios loaded")
     - configure button presses and layout and other things now
+4. now you need to enable DLDI (dynamically linked device interface)
+    - go to config, go to DLDI, load in your files
+    - click the checkbox that says "enable DLDI"
+    - load in an SD card image
