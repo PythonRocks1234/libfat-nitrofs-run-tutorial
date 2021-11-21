@@ -9,4 +9,11 @@ with nitrofs, you can have a read only filesystem inside of the rom
 
 # how to get libfat working
 **Note: might not work on actual nintendo ds, only on [melonDS](http://melonds.kuribo64.net)**<br>
-1. download melonDS here [download link](http://melonds.kuribo64.net/downloads.php)
+1. download melonDS here [melonDS site: download link](http://melonds.kuribo64.net/downloads.php)
+2. get the bios needed to run programs
+    - info is avaliabe at [melonDS site: faq](http://melonds.kuribo64.net/faq.php)
+    - 2 ways to obtain firmware and bios
+    - 1st way (legal):
+         dump from actual hardware [no intro wiki](https://wiki.no-intro.org/index.php?title=Nintendo_DS(i)_Dumping_Guide)
+    - 2nd way (illegal):
+         download at [emulator wiki](https://emulation.gametechwiki.com/index.php/Emulator_Files)
