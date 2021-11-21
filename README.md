@@ -19,4 +19,6 @@ with nitrofs, you can have a read only filesystem inside of the rom
          download at [emulator wiki](https://emulation.gametechwiki.com/index.php/Emulator_Files)
 3. configure your melonDS
     - go to config, go to ds emulation, load in your files
-    - 
+    - should look like the below image<br>
+        ![this](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/bios_loaded.png "bios loaded")
+    - configure button presses and layout and other things now
