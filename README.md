@@ -1,5 +1,6 @@
 # libfat-nitrofs-run-tutorial
-tutorial on how to run libfat and nitrofs
+tutorial on how to run libfat and nitrofs<br>
+coming soon: tutorial on running dswifi
 
 # what is libfat and nitrofs
 [Wikipedia: libfat](https://en.wikipedia.org/wiki/Libfat "libfat")<br>
