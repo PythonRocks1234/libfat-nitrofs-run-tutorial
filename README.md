@@ -34,3 +34,4 @@ with nitrofs, you can have a read only filesystem inside of the rom
     - if you need a bigger one make it yourself at [mediafire download link](https://www.mediafire.com/file/cfr9q8542e9lsos/Virtual_SD_Card_Maker.zip/file)
 5. you are ready
     - congrats, you can now use libfat homebrew
+    - test if it works at [this repo: test rom](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/libfatdir.nds)
