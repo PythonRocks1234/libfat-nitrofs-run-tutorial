@@ -8,4 +8,5 @@ basically with libfat you can read and write to sd cards<br><br>
 with nitrofs, you can have a read only filesystem inside of the rom
 
 # how to get libfat working
-**Note: might not work on actual nintendo ds, only on melonDS**
+**Note: might not work on actual nintendo ds, only on [melonDS](http://melonds.kuribo64.net)**<br>
+1. download melonDS here [download link](http://melonds.kuribo64.net/downloads.php)
