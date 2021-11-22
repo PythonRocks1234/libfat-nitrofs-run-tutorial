@@ -1,5 +1,8 @@
 # im tired
-if i screwed up anything report at the issues tab
+if i screwed up anything report at the issues tab<br>
+**NOTE: this tutorial is meant to be private**<br>
+**It is not a very good tutorial**<br>
+**It is not official!!!!**
 
 # libfat-nitrofs-run-tutorial
 tutorial on how to run libfat and nitrofs<br>
