@@ -45,6 +45,7 @@ with nitrofs, you can have a read only filesystem inside of the rom
 2. configure your settings (options then controls)
 3. nitrofs should work now
 4. test it
+    - test if it works at [this repo: test rom](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/nitrodir.nds)
 5. notes
     - might work on desmume??
     - will not work on melonDS (reasons at [melonDS github: one](https://github.com/Arisotura/melonDS/issues/1116) and [melonDS github: two](https://github.com/Arisotura/melonDS/issues/1043)
