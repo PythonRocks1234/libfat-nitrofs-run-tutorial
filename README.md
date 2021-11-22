@@ -34,4 +34,14 @@ with nitrofs, you can have a read only filesystem inside of the rom
     - if you need a bigger one make it yourself at [mediafire download link](https://www.mediafire.com/file/cfr9q8542e9lsos/Virtual_SD_Card_Maker.zip/file)
 5. you are ready
     - congrats, you can now use libfat homebrew
-    - test if it works at [this repo: test rom](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/libfatdir.nds)
+    - test if it works at [this repo: test rom](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/libfatdirs)
+6. notes
+    - might work on desmume??
+    - will not work on No$GBA (search "No$GBA libfat" for a solution)
+
+# nitrofs
+**Note: might not work on actual nintendo ds, only on [No$GBA](http://problemkaputt.de/gba.htm)**<br>
+1. download the emulator (i use the debug version but it should work with gaming)
+2. configure your settings (options then controls)
+3. nitrofs should work now
+
