@@ -39,9 +39,12 @@ with nitrofs, you can have a read only filesystem inside of the rom
     - might work on desmume??
     - will not work on No$GBA (search "No$GBA libfat" for a solution)
 
-# nitrofs
+# how to get nitrofs working
 **Note: might not work on actual nintendo ds, only on [No$GBA](http://problemkaputt.de/gba.htm)**<br>
 1. download the emulator (i use the debug version but it should work with gaming)
 2. configure your settings (options then controls)
 3. nitrofs should work now
-
+4. test it
+5. notes
+    - might work on desmume??
+    - will not work on melonDS (reasons at [melonDS github: one](https://github.com/Arisotura/melonDS/issues/1116) and [melonDS github: two](https://github.com/Arisotura/melonDS/issues/1043)
