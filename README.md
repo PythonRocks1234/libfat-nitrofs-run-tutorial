@@ -64,5 +64,11 @@ with nitrofs, you can have a read only filesystem inside of the rom
     - anyway what you want to do is to go to "nintendo wfc connection"
     - i use pokemon black 2 to do the setup (i totally own a copy of pokemon black 2 yes)<br>
         ![legal](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/very_legal_game.png "setup")
-    - 
+    - click options then "erase nintendo wfc configuration" (no more old settings)
+    - click back, go to nintendo wifi connection settings
+    - click connection 1, use the melonAP access point
+    - the ssid should be "melonAP"
+    - auto obtain ip address can be yes
+    - auto obtain dns must be set to no
+    - primary dns should be "164.132.44.106" (wiimmfi server), other servers can be used
     
