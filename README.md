@@ -5,8 +5,8 @@ if i screwed up anything report at the issues tab<br>
 **It is not official!!!!**
 
 # libfat-nitrofs-run-tutorial
-tutorial on how to run libfat and nitrofs<br>
-coming soon: tutorial on running dswifi
+tutorial on how to run libfat, nitrofs and dswifi<br>
+none of the roms or assets are mine
 
 # what is libfat and nitrofs
 [Wikipedia: libfat](https://en.wikipedia.org/wiki/Libfat "libfat")<br>
