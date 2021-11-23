@@ -73,3 +73,8 @@ with nitrofs, you can have a read only filesystem inside of the rom
     - primary dns should be "164.132.44.106" (wiimmfi server), other servers can be used
     - click test connection (it should be successful)
 4. congrats
+    - test if it works at [this repo: test rom](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/httpget.nds)
+5. notes
+    - will not work on desmume (they wont support wifi)
+    - might work on no$gba and actual ds??
+    - there will be no melonAP on an actual ds, you must make your own AP with some unsecured wifi
