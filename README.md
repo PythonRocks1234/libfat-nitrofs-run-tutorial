@@ -71,4 +71,5 @@ with nitrofs, you can have a read only filesystem inside of the rom
     - auto obtain ip address can be yes
     - auto obtain dns must be set to no
     - primary dns should be "164.132.44.106" (wiimmfi server), other servers can be used
-    
+    - click test connection (it should be successful)
+4. congrats
