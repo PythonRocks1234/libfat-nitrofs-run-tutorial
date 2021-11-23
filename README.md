@@ -53,3 +53,15 @@ with nitrofs, you can have a read only filesystem inside of the rom
 5. notes
     - might work on desmume??
     - will not work on melonDS (reasons at [melonDS github: one](https://github.com/Arisotura/melonDS/issues/1116) and [melonDS github: two](https://github.com/Arisotura/melonDS/issues/1043))
+
+# how to get dswifi working
+1. follow steps 1-3 of how to get libfat working (set up melonDS)
+2. go to config, wifi settings, tick the two checkboxes and use "indirect mode"
+3. you're gonna need piracy for this step
+    - this is very legal /j
+    - basically you're gonna need a nintendo ds rom that has wifi settings
+    - for legal reasons i will not be uploading the rom here (dump it yourself)
+    - anyway what you want to do is to go to "nintendo wfc connection"
+    - i use pokemon black 2 to do the setup (i totally own a copy of pokemon black 2 yes)
+    - 
+    
