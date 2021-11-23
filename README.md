@@ -62,6 +62,7 @@ with nitrofs, you can have a read only filesystem inside of the rom
     - basically you're gonna need a nintendo ds rom that has wifi settings
     - for legal reasons i will not be uploading the rom here (dump it yourself)
     - anyway what you want to do is to go to "nintendo wfc connection"
-    - i use pokemon black 2 to do the setup (i totally own a copy of pokemon black 2 yes)
+    - i use pokemon black 2 to do the setup (i totally own a copy of pokemon black 2 yes)<br>
+        ![legal](https://github.com/PythonRocks1234/libfat-nitrofs-run-tutorial/blob/main/assets/very_legal_game.png "setup")
     - 
     
